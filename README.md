@@ -51,7 +51,7 @@ JWT_EXPIRES_IN
 ```
 ### Important OAuth Configuration: To make the Google and GitHub OAuth login work, you'll need to set up OAuth credentials on Google and GitHub and include the client IDs and secrets in your .env file.
 
-- Google OAuth:
+- **Google OAuth**:
   
 1. Go to the Google Developer Console.
 
@@ -70,7 +70,7 @@ GOOGLE_CLIENT_ID=<your-google-client-id>
 GOOGLE_CLIENT_SECRET=<your-google-client-secret>
 ```
 
-- GitHub OAuth:
+- **GitHub OAuth**:
 
 1. Go to the GitHub Developer Settings.
 
